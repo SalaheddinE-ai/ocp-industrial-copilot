@@ -1,0 +1,56 @@
+# ==============================
+# Python / RAG
+# ==============================
+rag/.venv/
+rag/**/__pycache__/
+rag/**/*.pyc
+
+# Data
+rag/data/raw/
+rag/data/processed/
+
+# Environment / secrets
+rag/.env
+frontend/.env
+.env
+.env.*
+
+# ==============================
+# Frontend / Node
+# ==============================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# ==============================
+# Python environments
+# ==============================
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# ==============================
+# ML / AI models - don't commit
+# ==============================
+*.gguf
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# ==============================
+# IDE / OS
+# ==============================
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Logs / temporary files
+# ==============================
+*.log
+*.tmp
