@@ -1,5 +1,15 @@
 # OCP Industrial Copilot
 
+<p align="center">
+  <img src="frontend/public/logo.png" alt="FALCON Industrial Copilot Logo" width="220" />
+</p>
+
+<h1 align="center">OCP Industrial Copilot</h1>
+
+<p align="center">
+  <b>FALCON — Industrial Copilot</b><br />
+  An agentic RAG and 3D Digital Twin system for industrial maintenance.
+</p>
 Two independently-runnable services, connected over HTTP:
 
 ```
